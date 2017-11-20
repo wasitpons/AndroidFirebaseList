@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "1046488660165",
+    "firebase_url": "https://ratingtrue.firebaseio.com",
+    "project_id": "ratingtrue",
+    "storage_bucket": "ratingtrue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046488660165:android:9262095890600a97",
+        "android_client_info": {
+          "package_name": "com.trueappbuilder.team1b.truetvrating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046488660165-hnnp35es91b1gqib7e8g1oa8jtc4sne2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trueappbuilder.team1b.truetvrating",
+            "certificate_hash": "c81f689c980a624445f5c6ad96c77ecb2d288033"
+          }
+        },
+        {
+          "client_id": "1046488660165-e7v8t5jseovjmn2hddcvcc6bdr0m8ha7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n3dvebHV_IzSK67seWajs-_0AIa4iW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046488660165-e7v8t5jseovjmn2hddcvcc6bdr0m8ha7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1046488660165-kq2letemc1u0d1fnvhcqgrnvrr4beihp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itsolution.MovieRatingApp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046488660165:android:503632f22bca8068",
+        "android_client_info": {
+          "package_name": "com.example.wasitpon.testfirebaselist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046488660165-b419nuvjlhr9214llvg5sdupglms5t8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wasitpon.testfirebaselist",
+            "certificate_hash": "c81f689c980a624445f5c6ad96c77ecb2d288033"
+          }
+        },
+        {
+          "client_id": "1046488660165-e7v8t5jseovjmn2hddcvcc6bdr0m8ha7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n3dvebHV_IzSK67seWajs-_0AIa4iW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046488660165-e7v8t5jseovjmn2hddcvcc6bdr0m8ha7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1046488660165-kq2letemc1u0d1fnvhcqgrnvrr4beihp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itsolution.MovieRatingApp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
